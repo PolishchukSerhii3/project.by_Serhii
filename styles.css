@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+    color: #ccc;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ccc;
+}
+
+section {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+footer {
+    background-color: #333;
+    color: #ccc;
+    text-align: center;
+    padding: 10px;
+}
+
+.visitsite {
+    border: 2px solid #fff;
+}
+
+.general_name {
+    font-family: Futura Std Light, headingfont, futura, "Trebuchet MS", arial, san;;
+}
+
